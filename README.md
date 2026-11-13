@@ -1,2 +1,2 @@
-# web-practice
+# HTML5 practice
 about me
